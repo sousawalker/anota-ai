@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'light';
+  font-style: normal;
+  font-weight: normal;
+  src: local('light'), url('/assets/fonts/light.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('regular'), url('/assets/fonts/regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('bold'), url('/assets/fonts/bold.woff') format('woff');
+}

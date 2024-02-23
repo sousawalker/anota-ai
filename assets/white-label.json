@@ -1,0 +1,30 @@
+{
+  "default": {
+    "colorPrimary": "#009AFF",
+    "colorPrimaryHover": "#0086DF",
+
+    "colorSecondary": "#EFEFEF",
+    "colorSecondaryHover": "#D8D8D8",
+
+    "colorCyan": "#65ADC2",
+    "colorCyanHover": "#5F9FB3",
+
+    "colorWhite": "#FFFFFF",
+    "colorWhiteHover": "#DADADA",
+
+    "colorBlack": "#000000",
+    "colorBlackHover": "#1D1D1D",
+
+    "colorGrayLight": "#CCCCCC",
+    "colorGrayLightHover": "#BBBBBB",
+
+    "colorGray": "#808080",
+    "colorGrayHover": "#BBBBBB",
+
+    "colorGrayDark": "#4D4D4D",
+    "colorGrayDarkHover": "#666666",
+
+    "colorRed": "#FF0000",
+    "colorRedHover": "#C00000"
+  }
+}
